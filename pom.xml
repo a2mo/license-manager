@@ -20,6 +20,7 @@
         <module>license-manager-discovery</module>
         <module>license-manager-gateway</module>
         <module>license-manager-user</module>
+        <module>license-manager-config</module>
     </modules>
 
     <scm>
